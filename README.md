@@ -15,4 +15,4 @@ For tweet classification, the created NLP pipeline has the following steps. <br>
 7. Model Comparison
 8. Result Analysis
 
-This <a href="https://github.com/anyaviswa/KaggleNlpDisaster-256/blob/master/software-programs-team10.rar">notebook</a> will discuss each component in NLP pipeline in detail.
+This <a href="https://github.com/anyaviswa/KaggleNlpDisaster-256/blob/master/NLPBinaryClassifier.zip">notebook</a> will discuss each component in NLP pipeline in detail.
